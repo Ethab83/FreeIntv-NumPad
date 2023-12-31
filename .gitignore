@@ -1,3 +1,3 @@
 *.o
 *.dylib
-*.DStore
+*.DS_Store
